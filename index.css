@@ -49,15 +49,15 @@
     }
 }
 
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 1000px) {
     .box {
-        width: 70%;
+        width: 40%;
         margin: auto;
     }
 }
-@media screen and (max-width: 300px) {
+@media screen and (max-width: 400px) {
     .box {
-        width: 70%;
+        width: 80%;
         margin: auto;
     }
 }
