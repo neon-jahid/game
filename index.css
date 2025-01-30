@@ -2,19 +2,26 @@
 * {
     box-sizing: border-box;
     font-family: 'Roboto', serif;
-    line-height: 1.5;
+    line-height: 1.6;
+    font-size: 14px;
+    padding-bottom: 2px;
 }
 
 .image {
     height: 40px;
     width: 40px;
+    margin-right: 4px;
 }
 
 .game-instruction {
     line-height: 5cm;
 }
 .form {
-    line-height: normal;
+    line-height: 1.6;
+}
+.ins {
+    display: flex;
+    align-items: center;
 }
 .underline {
     text-decoration: underline;
