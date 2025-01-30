@@ -7,7 +7,7 @@
 }
 
 .box {
-    width: 40%;
+    width: 50%;
     margin: auto;
 }
 
@@ -42,22 +42,8 @@
     }
 }
 
-@media screen and (max-width: 1040px) {
-    .ins {
-        display: flex;
-        flex-direction: row;
-    }
-}
-
-@media screen and (min-width: 1000px) {
-    .box {
-        width: 40%;
-        margin: auto;
-    }
-}
-@media screen and (max-width: 350px) {
+@media (max-width: 768px) {
     .box {
         width: 80%;
-        margin: auto;
     }
 }
