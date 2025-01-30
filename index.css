@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+* {
+    box-sizing: border-box;
+    font-family: 'Roboto', serif;
+    line-height: 1.5;
+}
+
+.image {
+    height: 40px;
+    width: 40px;
+}
+
+.game-instruction {
+    line-height: 5cm;
+}
+.form {
+    line-height: normal;
+}
