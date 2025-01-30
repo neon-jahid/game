@@ -2,7 +2,6 @@
 * {
     box-sizing: border-box;
     font-family: 'Roboto', serif;
-    line-height: 1.6;
     font-size: 14px;
     padding-bottom: 2px;
 }
@@ -14,7 +13,7 @@
 }
 
 .game-instruction {
-    line-height: 5cm;
+    line-height: 2.6;
 }
 .form {
     line-height: 1.6;
