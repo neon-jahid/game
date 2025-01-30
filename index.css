@@ -55,7 +55,7 @@
         margin: auto;
     }
 }
-@media screen and (min-width: 300px) {
+@media screen and (max-width: 300px) {
     .box {
         width: 70%;
         margin: auto;
