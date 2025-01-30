@@ -49,7 +49,13 @@
     }
 }
 
-@media only screen and (max-width: 700px) {
+@media screen and (min-width: 600px) {
+    .box {
+        width: 70%;
+        margin: auto;
+    }
+}
+@media screen and (min-width: 300px) {
     .box {
         width: 70%;
         margin: auto;
